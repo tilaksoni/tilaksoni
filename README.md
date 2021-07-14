@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rinku SONI. Currently working for CRIS as Junior Software Engineer. I've been working in Human Resource Managment Project for Indian Railways. IRHRMS is one of the biggest HR project in the world as it serves more than 1.3 million serving/active perssonel and ~ 2 million retired employee.
+- 👋 Hi, I’m Rinku SONI. Currently working for CRIS as Junior Software Engineer. I've been working in Human Resource Managment Project for Indian Railways. IRHRMS is one of the biggest HR project in the world as it serves more than 1.3 million serving/active personel and ~ 2 million retired employee.
 - 👀 I’m interested in lots of things BTW. Coding/Development is one of the Part of it
 - 🌱 I’m currently learning Microservices and DS.
 - 💞️ I’m looking for SWITCH and relocate to some other country.
